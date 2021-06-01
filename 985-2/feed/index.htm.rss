@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	תגובות לפוסט: מסעדות סושי ברמת גן	</title>
-	<atom:link href="https://www.sora-rest.co.il/985-2/feed/" rel="self" type="application/rss+xml" />
-	<link>https://www.sora-rest.co.il/985-2/</link>
+	<atom:link href="985-2/feed/" rel="self" type="application/rss+xml" />
+	<link>985-2/</link>
 	<description>מסעדה אסייתית בגבעתיים</description>
 	<lastBuildDate>Sun, 13 Jan 2019 10:21:13 +0000</lastBuildDate>
 	<sy:updatePeriod>
